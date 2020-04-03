@@ -6,4 +6,7 @@
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+.idea/vcs.xml
+.idea/uiDesigner.xml
 akka_to_learn.iml
+learn_hadoop_coding.iml
